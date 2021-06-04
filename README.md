@@ -18,6 +18,8 @@ Welcome !!!
 
 Constantly updating...
 
+## :mailbox_with_mail: Como me encontrar:
+
 <a href="aurelioscarante25@gmail.com" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/email-open.png"/>aurelioscarante25@gmail.com
 </a><br>
@@ -26,7 +28,7 @@ Constantly updating...
 </a>
 
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/console.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/nolan/64/mysql.png"/>
+<img src="https://img.icons8.com/color/48/000000/console.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/nolan/64/mysql.png"/>
 </P>
 
 <!--

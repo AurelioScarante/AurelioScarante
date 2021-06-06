@@ -43,10 +43,7 @@ Welcome !!!
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurelioScarante&layout=compact&hide=html" alt="AurelioScarante" />
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AurelioScarante&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2"/>
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AurelioScarante&show_icons=true" alt="AurelioScarante" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AurelioScarante" alt="visitas-página" />
 </p>
